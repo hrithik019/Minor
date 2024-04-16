@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86186241605",
+    "project_id": "socialid-gio4fz",
+    "storage_bucket": "socialid-gio4fz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86186241605:android:906adcc9d2ed6ddcd3bd2c",
+        "android_client_info": {
+          "package_name": "com.mycompany.socialid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9RPbp13mPv0gGuFk0fNbVVjxwmWowx30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
